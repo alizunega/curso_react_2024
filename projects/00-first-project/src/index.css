@@ -1,0 +1,8 @@
+body {
+    font-family: system-ui, 'Helvetica Neue', sans-serif;
+    background: #222;
+    color: white;
+    margin: 0;
+    display: grid;
+    place-content: center;
+}

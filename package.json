@@ -1,0 +1,12 @@
+{
+  "name": "curso_react_2024",
+  "version": "1.0.0",
+  "description": "Guiandome por curso de MiduDev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
